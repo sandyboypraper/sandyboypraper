@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Sandeep!
 
+<a href = "https://www.youtube.com/channel/UCu3VoG0Q1S3nBQcgb2PAaBA" target = "_blank"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+<a href = "https://www.linkedin.com/in/sandeep-sharma-b39259124/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Shopping Assistant hybrid app.
