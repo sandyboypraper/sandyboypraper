@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Shopping Assistant hybrid app.
+- 🔭 I'm currently working on a ChatBot
 - 🌱 I’m currently learning Web3.
 - 👯 I’m looking to collaborate on any problem which can be solved by some lines of CODE.
 - 💬 Ask me about any tech related stuff, Poetry and Astrophysical Paradoxes.
